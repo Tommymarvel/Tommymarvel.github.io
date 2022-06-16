@@ -29,7 +29,7 @@ Here is my repository link: https://github.com/Tommymarvel/Tommymarvel.github.io
 👤 **Tommy Marvel**
 - GitHub: [https://github.com/tommymarvel)
 - Twitter: [@tomiwa_ibironke](https://twitter.com/tomiwa_ibironke) 
-- Go [live](https://tommymarvel.github.io/)
+- Go [**LIVE**](https://tommymarvel.github.io/)
 
 
 ## 🤝 Contributing
