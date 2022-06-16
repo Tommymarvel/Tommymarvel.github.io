@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Mobile portfolio Project For Microverse By Tommy Marvelous
+# Mobile portfolio Project For Microverse By Tommy Marvel
 
 > This is a simple web develoment project for microverse created using simple HTML(Hyper text mark-up Language.) and CSS(Cascading Style Sheet) which is used for styling or decorating the webpage.
 
@@ -28,7 +28,8 @@ Here is my repository link: https://github.com/Tommymarvel/Tommymarvel.github.io
 
 👤 **Tommy Marvel**
 - GitHub: [https://github.com/tommymarvel)
-- Twitter: [@tomiwa_ibironke] (https://twitter.com/tomiwa_ibironke) 
+- Twitter: [@tomiwa_ibironke](https://twitter.com/tomiwa_ibironke) 
+- Go [live](https://tommymarvel.github.io/)
 
 
 ## 🤝 Contributing
