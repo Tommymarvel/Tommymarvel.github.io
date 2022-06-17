@@ -27,10 +27,12 @@ Here is my repository link: https://github.com/Tommymarvel/Tommymarvel.github.io
 ## Authors
 
 👤 **Tommy Marvel**
-- GitHub: [https://github.com/tommymarvel)
+- GitHub: (https://github.com/tommymarvel)
 - Twitter: [@tomiwa_ibironke](https://twitter.com/tomiwa_ibironke) 
-- Go [**LIVE**](https://tommymarvel.github.io/)
+-
 
+## Live Demo
+-  [**Go LIVE**](https://tommymarvel.github.io/)
 
 ## 🤝 Contributing
 
@@ -43,9 +45,9 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+- Microverse
+- Figma template
 - Hat tip to anyone whose code was used
-- Inspiration
 - etc
 
 ## 📝 License
